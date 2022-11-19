@@ -1,0 +1,28 @@
+.contant {
+    width: 85%;
+    margin: 0 auto;
+    height: 100px;
+    align-items: center;
+}
+
+.nav-link {
+    font-size: 22px;
+    color: white;
+}
+
+.active {
+    font-weight: bold;
+    text-decoration: underline;
+    color: white;
+}
+
+nav .bordur {
+    height: 100px;
+    border-left: 3px solid hsla(0deg, 1%, 45%, 0.247);
+    border-right: 3px solid hsla(0deg, 1%, 45%, 0.247);
+    border-bottom: 3px solid hsla(0deg, 1%, 45%, 0.247);
+}
+
+.navbar-toggler {
+    background-color: white;
+}

@@ -1,0 +1,12 @@
+div {
+    color: white;
+}
+
+.containairPanier {
+    background: rgb(158, 145, 183);
+    background: linear-gradient(38deg, rgba(158, 145, 183, 0.8519782913165266) 6%, rgba(61, 45, 166, 0.6587009803921569) 100%);
+}
+
+.container-largeur {
+    width: 70%;
+}

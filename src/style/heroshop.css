@@ -1,0 +1,14 @@
+.hero-image {
+    background-image: url(../assets/images/img20.png);
+    height: 700px;
+    background-position: center;
+    background-color: black;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.hero-title {
+    padding-top: 4em;
+    font-size: 3em;
+    font-weight: bolder;
+}
